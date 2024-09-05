@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "김도훈의 프론트앤드 블로그"
+title                    : "프론트앤드 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "DODO"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "DoDo NOTE"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "블로그입니다."
+  bio              : "도도노트"
   location         : "South Korea"
   email            :
   links:
