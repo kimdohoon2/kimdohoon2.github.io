@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "프론트앤드 블로그"
+title                    : "우리들의 코딩 블루스"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "DODO"
-description              : "Frontend Developer"
+description              : "프론트엔드 개발자 블로그, 깃허브 블로그, 개발자 블로그"
 url                      : "https://kimdohoon2.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "DoDo NOTE"
+  name             : "Our Coding Blues"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "학습한 내용을 공유하는 블로그입니다."
+  bio              : "학습한 내용을 공유하는 기술 블로그입니다."
   location         : "South Korea"
   email            :
   links:
