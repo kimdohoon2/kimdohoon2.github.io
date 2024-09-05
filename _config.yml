@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "DoDo NOTE"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "도도노트"
+  bio              : "학습한 내용을 공유하는 블로그입니다."
   location         : "South Korea"
   email            :
   links:

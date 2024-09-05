@@ -16,6 +16,13 @@ docs :
       - title: "Tag"
         url: /tags/
 
+
+counts:
+  - title : "카테고리"
+    use : true
+  - title : "테그"
+    use : true        
+
   # - title : "대목차"
   #   children:
   #     - title: "Category"
