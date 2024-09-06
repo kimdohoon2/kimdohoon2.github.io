@@ -36,12 +36,14 @@ body {
 .page {
   @include breakpoint($large) {
     float: inline-end;
-    width: calc(100% - #{$right-sidebar-width-narrow});
-    padding-inline-end: $right-sidebar-width-narrow;
+    // width: calc(100% - #{$right-sidebar-width-narrow});
+    width: 100%;
+    // padding-inline-end: $right-sidebar-width-narrow;
   }
 
   @include breakpoint($x-large) {
-    width: calc(100% - #{$right-sidebar-width});
+    // width: calc(100% - #{$right-sidebar-width});
+    width: 100%;
     padding-inline-end: $right-sidebar-width;
   }
 
@@ -525,11 +527,14 @@ body {
 
   @include breakpoint($large) {
     float: inline-end;
-    width: calc(100% - #{$right-sidebar-width-narrow});
+    // width: calc(100% - #{$right-sidebar-width-narrow});
+    width: 100%;
   }
 
   @include breakpoint($x-large) {
     width: calc(100% - #{$right-sidebar-width});
+    float: left;
+    // width: 100%;
   }
 
   a {
