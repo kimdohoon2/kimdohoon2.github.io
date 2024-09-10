@@ -14,7 +14,8 @@
 
   @include breakpoint($x-large) {
     width: calc(100% - #{$right-sidebar-width});
-    padding-inline-end: $right-sidebar-width;
+    // padding-inline-end: $right-sidebar-width;
+    padding-inline-end: 0
   }
 }
 .layout--search .archive .search-input{
