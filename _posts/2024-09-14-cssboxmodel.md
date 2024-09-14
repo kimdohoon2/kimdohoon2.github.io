@@ -11,7 +11,8 @@ author_profile: false
 ---
 ## AND와 OR의 연상방식
 
-CSS의 박스 모델(Box Model)은 웹 페이지의 요소가 차지하는 공간을 설명하는 모델로, 각 요소는 네 개의 주요 부분으로 구성됩니다.
+CSS의 박스 모델(Box Model)은 웹 페이지의 요소가 차지하는 공간을 설명하는 모델로,<br>
+각 요소는 네 개의 주요 부분으로 구성됩니다.
 
 1. 내용 (Content): 실제 텍스트나 이미지와 같은 요소의 내용이 위치하는 부분입니다. 이 영역의 크기는 width와 height 속성으로 설정합니다.
 
@@ -22,12 +23,17 @@ CSS의 박스 모델(Box Model)은 웹 페이지의 요소가 차지하는 공�
 4. 마진 (Margin): 요소의 외부 공간으로, 다른 요소와의 간격을 조절합니다. 마진은 margin 속성으로 설정하며, 요소의 바깥쪽에 위치합니다.
 
 ## 박스 모델의 구조
+![css box model](https://miro.medium.com/v2/resize:fit:2560/1*nmdxvJbL2GI5NQSXCLOskA.png){: width="50%" height="100%"}
+
+
 
 * 가장 안쪽: 내용
 * 그 다음: 패딩
 * 그 다음: 테두리
 * 가장 바깥쪽: 마진
 
+
+<span style="font-size:15px;">이미지 출처: Pyram, Joseph. "The CSS Box Model." Medium, 2 Sep. 2020, https://medium.com/swlh/the-css-box-model-b73c8a771ddb.</span>
 
 
 
