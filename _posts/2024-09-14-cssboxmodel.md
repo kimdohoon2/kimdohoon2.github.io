@@ -22,6 +22,8 @@ CSS의 박스 모델(Box Model)은 웹 페이지의 요소가 차지하는 공�
 
 4. 마진 (Margin): 요소의 외부 공간으로, 다른 요소와의 간격을 조절합니다. 마진은 margin 속성으로 설정하며, 요소의 바깥쪽에 위치합니다.
 
+차이점 : 마진은 요소와 다른 요소 간의 간격을 조절하고, 패딩은 요소 내부의 내용과 테두리 간의 간격을 조절합니다.
+
 ## 박스 모델의 구조
 ![css box model](https://miro.medium.com/v2/resize:fit:2560/1*nmdxvJbL2GI5NQSXCLOskA.png){: width="50%" height="100%"}
 
