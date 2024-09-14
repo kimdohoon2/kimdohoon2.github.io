@@ -78,10 +78,9 @@
     position: sticky;
     top: 200px;
     right: 0;
-    transform: translateX(390px);
     inset-inline-end: 0;
     width: $right-sidebar-width-narrow;
-    // margin-inline-end: -1 * $right-sidebar-width-narrow;
+    margin-inline-end: -1 * $right-sidebar-width-narrow;
     padding-inline-start: 1em;
     z-index: 10;
 
@@ -103,7 +102,7 @@
 
   @include breakpoint($x-large) {
     width: $right-sidebar-width;
-    // margin-inline-end: -1 * $right-sidebar-width;
+    margin-inline-end: -1 * $right-sidebar-width;
     float: right;
     
   }
