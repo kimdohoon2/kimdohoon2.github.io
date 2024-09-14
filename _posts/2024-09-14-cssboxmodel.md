@@ -9,7 +9,7 @@ author_profile: false
 #     nav: "counts"
 # search: true
 ---
-## AND와 OR의 연상방식
+## CSS의 박스 모델
 
 CSS의 박스 모델(Box Model)은 웹 페이지의 요소가 차지하는 공간을 설명하는 모델로,<br>
 각 요소는 네 개의 주요 부분으로 구성됩니다.
