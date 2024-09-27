@@ -109,11 +109,16 @@ body {
 	}
 
   p,
-  li,
   dl {
     font-size: 0.82em;
   }
 
+  ol li{
+    font-size: 1em;
+  }
+  ul li{
+    font-size: 0.82em;
+  }
   /* paragraph indents */
   p {
     margin: 0 0 $indent-var;
