@@ -534,7 +534,7 @@
   @include breakpoint($large) {
     font-size: $type-size-7;
   }
-  li{
+  li {
     font-size: 1em !important;
   }
   a {
@@ -544,10 +544,6 @@
     font-weight: bold;
     line-height: 1.5;
     border-bottom: 1px solid $border-color;
-
-    &:hover {
-      color: $text-color;
-    }
   }
 
   li ul > li a {
